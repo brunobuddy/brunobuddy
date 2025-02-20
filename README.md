@@ -8,7 +8,7 @@ Co-founder of [Buddyweb](https://buddyweb.fr), a digital agency and [Manifest](h
 - ⚙️ I work mainly with `.ts`, `.tsx`. Sometimes with `.scss` but I am not so proud of it 
 - ❤️ I love Open Source, learning and drinking beers (when I can find the time for it)
 - 🌱 I am currently improving my DevOps skills, I feel like I missed so many things 😳
-- 📫 Reach me through GitHub, follow me and I'll follow you back
+- 📫 Reach me through [email](mailto:bruno@manifest.build)
 
 
 
