@@ -2,7 +2,7 @@
 
 I am Bruno, a senior TypeScript developer and entrepreneur. 
 
-Co-founder of [Buddyweb](https://buddyweb.fr), a digital agency and [Manifest](https://manifest.build), an open-source backend-as-a-service. I am located in [Grenoble](https://www.openstreetmap.org/search?query=grenoble#map=9/45.017/5.757) 🇫🇷🏔🫕 with a strong personal and professional attachment to Paris 🗼.
+Co-founder of [Manifest](https://manifest.build), an open-source backend-as-a-service and [Buddyweb](https://buddyweb.fr), a digital agency. I am located in [Grenoble](https://www.openstreetmap.org/search?query=grenoble#map=9/45.017/5.757) 🇫🇷🏔🫕 with a strong personal and professional attachment to Paris 🗼.
 
 
 - ⚙️ I work mainly with `.ts`, `.tsx`. Sometimes with `.scss` but I am not so proud of it 
